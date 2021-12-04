@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Murottal</string>
+    <string name="about">Tentang</string>
+    <string name="about_contents">Aplikasi ini dipersembahkan oleh:\nAldo Adirajasa Fathoni\nAhmad Hilmi Tamaam\nHarits</string>
+    <string name="about_copyright">Versi 1.0 © 2021</string>
+    <string name="settings">Pengaturan</string>
+    <string name="open">Buka</string>
+    <string name="close">Tutup</string>
+    <string name="playing">Sedang memutar %s</string>
+    <string name="confirm_exit">Tekan lagi untuk keluar</string>
+    <string name="verse">Ayat</string>
+    <string name="mecca">Makkiyyah</string>
+    <string name="medina">Madaniyyah</string>
+    <string name="stop">Stop</string>
+</resources>

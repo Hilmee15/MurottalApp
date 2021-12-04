@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Murottal</string>
+    <string name="about">About</string>
+    <string name="about_contents">This app is brought to you by:\nAldo Adirajasa Fathoni\nAhmad Hilmi Tamaam\nHarits</string>
+    <string name="about_copyright">Version 1.0 © 2021</string>
+    <string name="settings">Settings</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="playing">Now Playing %s</string>
+    <string name="confirm_exit">Press again to exit</string>
+    <string name="verse">Verses</string>
+    <string name="mecca">Mecca</string>
+    <string name="medina">Medina</string>
+    <string name="stop">Stop</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <!-- Base application theme. -->
+    <attr name="surahColor" format="color" />
+    <attr name="lineColor" format="color" />
+    <attr name="listColor" format="color" />
+    <attr name="menuTextColor" format="color" />
+    <style name="Theme.Murottal" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/fg</item>
+        <item name="colorSecondary">@color/bg</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="actionBarStyle">@color/fg</item>
+        <item name="rippleColor">@color/bg</item>
+        <item name="surahColor">@color/black</item>
+        <item name="lineColor">@color/line_color</item>
+        <item name="listColor">@color/white</item>
+        <!-- <item name="actionMenuTextColor">@color/black</item> -->
+        <item name="android:navigationBarColor">@color/statusbar</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/statusbar</item>
+        <!-- Customize your theme here. -->
+        <item name="android:fontFamily">@font/poppins_regular</item>
+    </style>
+    <style name="NoActionBar" parent="Theme.Murottal">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+</resources>
